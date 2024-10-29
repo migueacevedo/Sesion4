@@ -1,0 +1,4 @@
+miproyecto\core\domain\driven_ports\BookRepository.class
+miproyecto\core\driver_ports\BookService.class
+miproyecto\core\driver_ports\BookServiceImpl.class
+miproyecto\core\domain\Book.class
